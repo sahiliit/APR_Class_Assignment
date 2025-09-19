@@ -29,9 +29,9 @@ pip install datasets scikit-learn seaborn matplotlib
 
 - 2. Run the Notebook
 
-Open APR_assignment1_fixed.ipynb in Google Colab or Jupyter Notebook.
+- 3. Open APR_assignment1_fixed.ipynb in Google Colab or Jupyter Notebook.
 
-Execute the cells step by step.
+- 4. Execute the cells step by step.
 
 **3. Outputs**
 
